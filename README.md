@@ -1,5 +1,6 @@
 # Cloud-Based Network Intrusion Detection System
 
+This project was developed as part of a final-year computer science project.
 A cloud-integrated Network Intrusion Detection System (NIDS) using Suricata and AWS free tier services for traffic analysis, alerting, and visualization.
 
 ## Technologies
@@ -10,10 +11,7 @@ A cloud-integrated Network Intrusion Detection System (NIDS) using Suricata and 
 - Suricata
 - Linux
 - Python
-
-## Status
-This project was developed as part of a final-year computer science project.
-
+  
 ## Features
 - Network traffic replay using tcpreplay.
 - Intrusion detection with Suricata Engine.
